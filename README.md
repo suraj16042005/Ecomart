@@ -19,6 +19,6 @@ The app provides a seamless shopping experience with product browsing, cart mana
 ## 🛠️ Tech Stack  
 - **Language**: Java, XML  
 - **IDE**: Android Studio  
-- **Database**: Firebase / SQLite (if used)  
+- **Database**: Firebase  
 - **Version Control**: Git & GitHub  
 
