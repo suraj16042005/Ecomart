@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <FrameLayout
+        android:id="@+id/home_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="400dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="885dp"
+            android:layout_marginEnd="48dp"
+            android:layout_marginRight="48dp"
+            android:text="        Explore              Cart                  Exit                 User "
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="HardcodedText,TextSizeCheck" />
+    </FrameLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout12"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="838dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/user_399040"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/exit"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="838dp"
+        android:layout_marginEnd="142dp"
+        android:background="@drawable/exit"
+        android:onClick="onLayoutClick"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:showAsAction="always"
+        tools:ignore="SpeakableTextPresentCheck">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cart"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="838dp"
+        android:layout_marginEnd="257dp"
+        android:background="@drawable/shoppingcart_5251992"
+        android:onClick="onLayoutClick"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:showAsAction="always"
+        tools:ignore="SpeakableTextPresentCheck">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout9"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="838dp"
+        android:layout_marginEnd="365dp"
+        android:background="@drawable/compass_5952934"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+

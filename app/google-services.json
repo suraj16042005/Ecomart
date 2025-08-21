@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163055247872",
+    "project_id": "ecomart-fa082",
+    "storage_bucket": "ecomart-fa082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163055247872:android:0f8afc54d4696cf3c56ee5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvxuofULjUVO_-6J2JUZ5Oouf2XOt5U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

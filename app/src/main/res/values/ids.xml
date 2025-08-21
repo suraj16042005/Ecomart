@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="all_img" type="id" />
+    <item name="all_product_name" type="id" />
+    <item name="all_price" type="id" />
+</resources>

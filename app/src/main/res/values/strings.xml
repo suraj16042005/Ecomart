@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="explore_popular_categories">Explore popular Categories</string>
+    <string name="up_to_20_off_shop_now">Up To 20% Off Shop Now</string>
+    <string name="user">User</string>
+    <string name="welcome">Welcome</string>
+    <string name="fashion">Fashion</string>
+    <string name="beauty">Beauty</string>
+    <string name="groceries">Groceries</string>
+    <string name="view_all">View all</string>
+    <string name="popular_product_see_all">Popular Product see all</string>
+    <string name="popular_product">Popular product</string>
+    <string name="see_all">See all</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="user2">User</string>
+    <string name="password2">Password</string>
+    <string name="hello_world">Hello world</string>
+    <string name="lets_get_started">Lets get started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
